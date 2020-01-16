@@ -45,7 +45,7 @@ Then passage retrieval becomes much easier, now our &#39;passages&#39; are split
 2. Take the top sentence and pass it to our answer\_processor() function.
 
 
-1. **Answer Processing**
+**Answer Processing**
 
 Once passage retrieval and ranking happens, answer processing is actually quite simple. We just print out the word that has the corresponding tag of our answer type.
 
